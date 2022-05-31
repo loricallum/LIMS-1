@@ -33,13 +33,8 @@ All source code is in the `src/` directory and when run will create bundles in t
 
 If you find (or suspect you have found) a bug please check that it has not already been submitted to our [issue tracker](https://github.com/LeafLIMS/LeafLIMS/issues) and if not, submit a bug report with as much detail as you can [here](https://github.com/LeafLIMS/LeafLIMS/issues).
 
-For non-bug related enquiries you can contact the lead developer Thomas at [thomas.craig@liverpool.ac.uk](mailto:thomas.craig@liverpool.ac.uk).
+For non-bug related enquiries you can contact the lead developer 
 
-## Support
-
-Leaf LIMS is developed by a group of three major groups at universities in the UK: [GeneMill](https://genemill.liv.ac.uk) at the University of Liverpool, the [EGF](http://www.genomefoundry.org/) at Edinburgh University and the [Earlam Institute](http://www.earlham.ac.uk/). 
-
-If you are interested in further supporting the project please get in touch with Thomas via email at [thomas.craig@liverpool.ac.uk](mailto:thomas.craig@liverpool.ac.uk).
 
 ## Licence
 
